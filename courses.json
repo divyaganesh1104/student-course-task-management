@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "courseName": "Introduction to Programming",
+      "instructor": "John Doe",
+      "startDate": "2024-04-01",
+      "endDate": "2024-06-30",
+      "description": "This course provides an introduction to programming concepts using a beginner-friendly programming language."
+    },
+    {
+      "id": 2,
+      "courseName": "Data Structures and Algorithms",
+      "instructor": "Jane Smith",
+      "startDate": "2024-07-01",
+      "endDate": "2024-09-30",
+      "description": "This course covers advanced data structures and algorithms."
+    }
+  ]

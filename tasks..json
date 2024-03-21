@@ -1,0 +1,67 @@
+[
+    {
+      "taskId": 1,
+      "courseId": 1,
+      "taskName": "Week 1 Assignment",
+      "description": "Complete exercises 1-5 from the textbook.",
+      "dueDate": "2024-04-07",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 2,
+      "courseId": 1,
+      "taskName": "Week 2 Assignment",
+      "description": "Write a program that calculates the factorial of a given number.",
+      "dueDate": "2024-04-14",
+      "status": "Complete"
+    },
+    {
+      "taskId": 3,
+      "courseId": 1,
+      "taskName": "Midterm Exam",
+      "description": "A comprehensive exam covering topics from weeks 1-4.",
+      "dueDate": "2024-05-01",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 4,
+      "courseId": 1,
+      "taskName": "Final Project",
+      "description": "Develop a small software application demonstrating understanding of course concepts.",
+      "dueDate": "2024-06-25",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 5,
+      "courseId": 2,
+      "taskName": "Assignment 1: Linked Lists",
+      "description": "Implement various operations on linked lists.",
+      "dueDate": "2024-07-14",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 6,
+      "courseId": 2,
+      "taskName": "Assignment 2: Sorting Algorithms",
+      "description": "Implement popular sorting algorithms like merge sort and quick sort.",
+      "dueDate": "2024-07-28",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 7,
+      "courseId": 2,
+      "taskName": "Midterm Exam",
+      "description": "An exam covering topics from the first half of the course.",
+      "dueDate": "2024-08-15",
+      "status": "Incomplete"
+    },
+    {
+      "taskId": 8,
+      "courseId": 2,
+      "taskName": "Final Project",
+      "description": "Design and implement an efficient data structure for a specific problem.",
+      "dueDate": "2024-09-20",
+      "status": "Incomplete"
+    }
+  ]
+    
